@@ -1,4 +1,4 @@
-No curso Deep Learning Framework, Capítulo 10, Programa 02, Redes Neurais Profundas, da Data Science Academy, são comparadas as acurácias dos seguintes frameworks - em grau crescente de complexidade - para prever dígitos escritos à mão do dataset MNIST:
+No curso *Deep Learning Framework, Capítulo 10, Programa 02, Redes Neurais Profundas*, da **Data Science Academy**, são comparadas as acurácias dos seguintes frameworks - em grau crescente de complexidade - para prever dígitos escritos à mão do dataset MNIST:
 
 • TensorFlow 2 e Keras (Nível Baixo de Complexidade): 0,9798
 
